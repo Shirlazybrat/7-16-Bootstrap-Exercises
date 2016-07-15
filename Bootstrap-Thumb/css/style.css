@@ -1,0 +1,6 @@
+.text, footer {
+	background-color: #ccc;
+	height: 100px;
+	text-align: center;
+	border: 1px solid black;
+}
